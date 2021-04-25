@@ -8,6 +8,7 @@ public class Main {
 		Course course2 = new Course(2,"Java ve React","Sýfýrdan Yazýlým Gelistirme");
 		
 		//Course[] courses = {course1,course2};
+		//test
 		
 		Instructor instructor1 = new Instructor (1,"Engin Demirog", "Isimli Ogretmenin");
 		Instructor instructor2 = new Instructor (1,"Engin Demirog", "Isimli Ogretmenin");
