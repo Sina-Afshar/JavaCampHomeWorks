@@ -15,7 +15,7 @@ public class AsalSayi {
 		
 		if(number<1){
 			System.out.println("Sayi gecersiz");
-			
+			return;
 		}
 		
 		for (int i=2; i<number; i++) {
